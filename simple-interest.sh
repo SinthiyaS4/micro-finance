@@ -1,5 +1,8 @@
 #!/bin/bash
-#This script is used to calculate simple interest
+# This script is used to calculate simple interest
+
+# Additional Authors:
+# SinthiyaS
 
 echo "Enter Amount:"
 read p
